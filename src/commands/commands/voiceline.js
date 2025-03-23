@@ -17,7 +17,8 @@ module.exports = {
             "Chicken jockey!",
             "Diamond Armor, full set",
             "The stash",
-            "Theyre the Villagers!"
+            "Theyre the Villagers!",
+            "As a child, I yearned for the mines"
         ];
         const voiceline = voicelines[Math.floor(Math.random() * voicelines.length)];
     
