@@ -18,7 +18,14 @@ module.exports = {
             "Diamond Armor, full set",
             "The stash",
             "Theyre the Villagers!",
-            "As a child, I yearned for the mines"
+            "As a child, I yearned for the mines",
+            "WATER BUCKET",
+            "An Ender Pearl. Teleports you to wherever you throw it",
+            "Ever wonder what happens when you mix hot lava and chicken?",
+            "Blades for days",
+            "Pink house!",
+            "Boots of swiftness",
+            "They love crushin loaf"
         ];
         const voiceline = voicelines[Math.floor(Math.random() * voicelines.length)];
     
