@@ -11,8 +11,9 @@ module.exports = {
             "I... am Steve",
             "The Nether",
             "Flint and steel!",
-            "RELEASE!!!",
-            "COMIN IN HOT!!",
+            "RELEASE!",
+            "Dont worry, im gonna cushion our fall with this water bucket. RELEASE!",
+            "COMIN IN HOT!",
             "This... is a crafting table",
             "Chicken jockey!",
             "Diamond Armor, full set",
@@ -25,7 +26,8 @@ module.exports = {
             "Blades for days",
             "Pink house!",
             "Boots of swiftness",
-            "They love crushin loaf"
+            "They love crushin a loaf",
+            "First we mine, then we craft. LETS MINECRAFT"
         ];
         const voiceline = voicelines[Math.floor(Math.random() * voicelines.length)];
     
