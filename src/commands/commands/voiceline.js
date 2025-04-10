@@ -27,7 +27,9 @@ module.exports = {
             "Pink house!",
             "Boots of swiftness",
             "They love crushin a loaf",
-            "First we mine, then we craft. LETS MINECRAFT"
+            "First we mine, then we craft. LET'S MINECRAFT",
+            "L-L-L-Lava, Ch-Ch-Ch-Chicken, Steve's Lava Chicken yeah it's tasty as hell, ooh mamacita now you're ringing the bell, crispy and juicy now you're having a snack, ooh super spicy its a lava ATTAAAAAACK!",
+            "SLIME CUBE!"
         ];
         const voiceline = voicelines[Math.floor(Math.random() * voicelines.length)];
     
